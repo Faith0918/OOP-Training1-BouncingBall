@@ -1,11 +1,11 @@
 # Ball bouncing game project for OOP understanding
 
 ## + JAVA Understanding
-#### + Interface
-#### + Abstracet
+##   + Interface
+##   + Abstracet
 
 ## + Design pattern
-#### + MVC pattern
+##   + MVC pattern
 
 ## + Server-Client communication
 #### + socket communication
